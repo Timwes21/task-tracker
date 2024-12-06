@@ -6,13 +6,13 @@ This application keeps track of tasks and their respective elements: ID, descrip
 2. Head to the project directory
 3. Run
 # List of commands
-mark-done 1
-mark-in-progress 1
-update 1 finish folding clothes
-add take out the trash
-delete 1
-list
-quit
+- mark-done 1
+- mark-in-progress 1
+- update 1 finish folding clothes
+- add take out the trash
+- delete 1
+- list
+- quit
 # Acknowledgments
 https://roadmap.sh/projects/task-tracker
 # Project URL
