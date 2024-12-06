@@ -5,7 +5,7 @@ This application keeps track of tasks and their respective elements: ID, descrip
 1. Clone the Repository -> https://github.com/Timwes21/task-tracker.git
 2. Head to the project directory
 3. Run
-#List of commands
+# List of commands
 mark-done 1
 mark-in-progress 1
 update 1 finish folding clothes
