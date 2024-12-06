@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "description": "get some cheese",
+        "status": "in progress",
+        "created_at": "Thu Dec  5 18:46:52 2024",
+        "updated_at": "Thu Dec  5 22:16:33 2024"
+    },
+    {
+        "id": 2,
+        "description": "eat a corondog",
+        "status": "not done",
+        "created_at": "Thu Dec  5 20:51:28 2024",
+        "updated_at": null
+    },
+    {
+        "id": 3,
+        "description": "buy flowers",
+        "status": "not done",
+        "created_at": "Thu Dec  5 20:51:35 2024",
+        "updated_at": null
+    }
+]
